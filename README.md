@@ -1,7 +1,7 @@
 # 🎛️ ComfyUI Variables Board V 0.9
 
 **Variables Board** is a floating control center for your [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows. It allows you to centralize every parameter—from seeds and integers to samplers and strings—into a sleek, customizable overlay that stays accessible as you navigate your workspace.
-
+![pic1](assets/varBoard02.png)
 **** README IS A WORK IN PROGRESS ****
 
 What you need to know:
