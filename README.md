@@ -9,6 +9,9 @@ What you need to know:
 
 ## 🛠️ Installation
 
+REQUIREMENTS : A working ComfyUI... That's all
+
+
 1. Navigate to your ComfyUI `custom_nodes` directory:
    ```bash
    cd ComfyUI/custom_nodes/
