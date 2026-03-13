@@ -15,9 +15,11 @@ What you need to know:
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/IA-gyz/VarBoard---The-Parameters-Panel.git
+   git clone https://github.com/IA-gyz/comfyui-VarBoard.git
    ```
-3. Restart ComfyUI and refresh your browser.
+   Or download and extract the zip to your ComfyUI `custom_nodes` directory
+   
+4. Restart ComfyUI and refresh your browser.
 
 ---
 
