@@ -44,7 +44,7 @@ Connect the outputs of your VB nodes to the inputs of your target nodes (e.g., c
 ### 4. Customize
 Click the `⚙` icon on the board header to open the **Panel Settings** flyout for various tweaking options.
 ---
-
+![hugetiny](assets/varBoardHugeTiny.png)
 ## 📐 Design Philosophy
 
 Variables Board was designed to solve "canvas fatigue." Instead of hunting for nodes across a massive graph, you bring the controls to you. It respects the ComfyUI aesthetic while injecting a somewhat "Pro-tool" feel.
